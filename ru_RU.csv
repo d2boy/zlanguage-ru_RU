@@ -26,9 +26,11 @@ GENERAL
     ">Main website title","> Название всего вебсайта"
     ">Page to display on homepage","> Какая страница является главной"
     ">Delete files","> Удалить файлы"
-
+    ">Menu",">Меню"
     ">visit",">Открыть"
-    "> Add page","> Добавить страницу"
+    "> Add page",">Добавить страницу"
+    ">Footer",">Колонтитул (нижняя сноска, footer)"
+    ">Upload",">Отправить на сервер"
 
 THEMES
     ">List of all themes","> Список всех тем"
@@ -55,12 +57,15 @@ SECURITY
     "Old password","Старый пароль"
     "New password","Новый пароль"
     "> Change password","> Изменить пароль"
+    ">Backup",">Резервное копирование"
+    ">Backup website","Сделать резервную копию сайта"
 
     "> How to restore backup","> Как восстанавливать резервные копии?"
     ">Improved security \(Apache only\)",">Усиленная защита (Работает только с Apache)"
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Принудительное HTTPS, 30 дневное кеширование, iframes разрешены только с того же источника, защита от сниффинга mime-типов, более строгие политики для cookie и refferer механизмов."
-    ">ON \(warning: may break your website\)",">ВКЛЮЧИТЬ (внимание: может сломать Ваш вебсайт!)"
-    ">OFF \(reset htaccess to default\)",">ОТКЛЮЧИТЬ"
+
+    ">ON (warning: may break your website)",">ВКЛЮЧИТЬ (внимание: может сломать Ваш вебсайт!)"
+    ">OFF (reset htaccess to default)",">ОТКЛЮЧИТЬ (сбрость htaccess файл)"
     "> Read more before enabling","> Узнать больше перед тем, как включать"
 
     ">Last 5 logins",">Последние 5 сохраненных входов"
@@ -76,3 +81,5 @@ STATISTICS
 FOOTER
     ">News",">Новости"
     ">Donate",">Поддержать разработчика"
+    ">Community",">Сообщество"
+    ">Docs",">Документация(англ.)"
