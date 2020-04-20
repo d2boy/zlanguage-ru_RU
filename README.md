@@ -1,6 +1,7 @@
 <p align="center"><img src="preview.jpg" /></p>
 <h1 align="center">language-ru_RU</h1>
 <p align="center">Russian translations for WonderCMS</p>
+<p align="center">Русский перевод для WonderCMS</p>
 
 <br><br>
 
@@ -12,9 +13,15 @@ This plugin adds Russian translations to the WonderCMS admin area, based on `htt
 1. Login to your WonderCMS website.
 2. Click "Settings" and click "Plugins".
 3. Enter the repo url, f.e.
-   (`https://github.com/StephanStanisic/zlanguage-nl_NL`) at the bottom of
+   (`https://github.com/RarogCmex/zlanguage-ru_RU`) at the bottom of
    the page and click "Add".
 3. Find plugin in the list and click "install".
+## (Русский) Как использовать
+1. Войдите на сайт
+2. Кликните "Settings" и на вкладку "Plugins".
+3. Вставьте ссылку
+   (`https://github.com/RarogCmex/zlanguage-ru_RU`) в нижнее поле страницы и кликните "Add".
+3. Найдите плагин в списке и нажмите "install".
 
 ## How this works
 
