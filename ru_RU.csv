@@ -20,7 +20,6 @@ CURRENT PAGE
     ">Page keywords",">Ключевые слова страницы"
     ">Page description",">Описание страницы"
     "> Delete page \((.*?)\)","> Удалить страницу ($1)"
-    ">Delete page",">Удаляет страницу"
     "return confirm\('Delete (.*?)\?'\)","return confirm('Удалить $1?')"
 
 GENERAL
@@ -43,7 +42,6 @@ THEMES
     "> Activate","> Активировать"
     "> More info","> Больше сведений"
     "> Install","> Установить"
-    ">Remove",">Удалить"
     ">Installed version:",">Установленная версия:"
     ">Custom repository",">Свой вариант репозитория"
     "Enter URL to custom repository","Введите URL своего варианта репозитория"
