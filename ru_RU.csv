@@ -20,6 +20,7 @@ CURRENT PAGE
     ">Page keywords",">Ключевые слова страницы"
     ">Page description",">Описание страницы"
     "> Delete page \((.*?)\)","> Удалить страницу ($1)"
+    ">Delete page",">Удаляет страницу"
     "return confirm\('Delete (.*?)\?'\)","return confirm('Удалить $1?')"
 
 GENERAL
@@ -29,18 +30,20 @@ GENERAL
     ">Menu",">Меню"
     ">visit",">Открыть"
     "> Add page",">Добавить страницу"
+    ">Add new page",">Добавляет новую страницу"
     ">Footer",">Колонтитул (нижняя сноска, footer)"
     ">Upload",">Отправить на сервер"
-
+    "> Upload",">Отправить на сервер"
 THEMES
     ">List of all themes","> Список всех тем"
     "> Check for updates","> Проверить обновления"
     "return confirm\('Remove (.*?)\?'\)","return confirm('Удалить тему? $1?')"
-    ">Active",">Actief"
+    ">Active",">Активна"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Активировать $1 тему?')"
     "> Activate","> Активировать"
     "> More info","> Больше сведений"
     "> Install","> Установить"
+    ">Remove",">Удалить"
     ">Installed version:",">Установленная версия:"
     ">Custom repository",">Свой вариант репозитория"
     "Enter URL to custom repository","Введите URL своего варианта репозитория"
